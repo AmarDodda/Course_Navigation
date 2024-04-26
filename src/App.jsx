@@ -12,12 +12,11 @@ import Career from './components/Career'
 
   const router= createBrowserRouter([
     {
-      path:'/',
+      path:"/",
       element:<MainNav />,
       children:[
-        
         {
-          path:'/all',
+          index:true,
           element: <All />
         },
         {

@@ -16,7 +16,7 @@ const AllCourses = ({ courses }) => {
       {courses.map((course, index) => (
         <div key={index} className="col-md-4">
           <div className="card mb-8 h-100">
-          <img src={course.image} className="card-img" alt={course.title} />
+          <img src={course.image} className="card-img-top" alt={course.title} />
 
             <div className="card-body">
               <h5 className="card-title">{course.title}</h5>
