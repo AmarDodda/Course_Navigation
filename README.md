@@ -1,6 +1,12 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This task involves setting up navigation and defining a default route for a React application using React Router. The goal is to create a navigation menu with links to different courses/pages and ensure that the desired content is displayed when the application loads.
+
+The courses involved are: FULL STACK WEB DEVOLOPMENT, DATA SCIENCE, CYBER SECURITY , in each category three courses were displayed.
+
+Used the <Link> component from React Router to create the navigation links. It is used to create navigation links that automatically handle route changes without causing a full page reload.
+
+Made All componenet as a default route to ensure that the website gets directed to a specific page(All) when initially accessing the application or when the URL is given.
 
 Currently, two official plugins are available:
 
