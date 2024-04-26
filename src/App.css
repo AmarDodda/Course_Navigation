@@ -1,0 +1,11 @@
+.nav-link{
+  margin-top: "60px";
+  margin-right: '50px'; 
+  text-decoration : 'none';
+  color: 'black'
+}
+
+.nav-link:hover {
+  background-color: grey !important;
+  text-decoration: underline !important;
+}
