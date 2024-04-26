@@ -4,7 +4,7 @@ This task involves setting up navigation and defining a default route for a Reac
 
 The courses involved are: FULL STACK WEB DEVOLOPMENT, DATA SCIENCE, CYBER SECURITY , in each category three courses were displayed.
 
-Used the <Link> component from React Router to create the navigation links. It is used to create navigation links that automatically handle route changes without causing a full page reload.
+Used the Link component from React Router to create the navigation links. It is used to create navigation links that automatically handle route changes without causing a full page reload.
 
 Made All componenet as a default route to ensure that the website gets directed to a specific page(All) when initially accessing the application or when the URL is given.
 
